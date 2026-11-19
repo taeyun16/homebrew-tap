@@ -1,8 +1,8 @@
 class Hanyeong < Formula
   desc "Korean/English input switch for macOS that fires on key press"
   homepage "https://github.com/taeyun16/hanyeong"
-  url "https://github.com/taeyun16/hanyeong/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "4bf46f04badcf14473d3a52549f8b1d5cf488012367633b5ff5e810bb0c429b1"
+  url "https://github.com/taeyun16/hanyeong/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "2edf87819f4ce2ce2132a0fb4ce6a5ac3b0872623e9b8945dbb6f42152e616c7"
   license "Apache-2.0"
   head "https://github.com/taeyun16/hanyeong.git", branch: "main"
 
